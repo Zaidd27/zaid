@@ -1,0 +1,8 @@
+#Assignment 2
+
+#FROZENSET
+
+
+x = frozenset(['a','b','c']) print(x)
+
+frozenset({'a', 'c', 'b'})
