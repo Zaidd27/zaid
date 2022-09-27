@@ -1,4 +1,5 @@
-# zaid
+#ASSIGMENT 1&2
+
 #Assignment 1:
 
 # List
